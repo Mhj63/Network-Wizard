@@ -62,24 +62,34 @@ Wizard!
 
 
 For VLSM Press (1):
+
 For CIDR to Subnet Mask Press (2):
+
 To Quit Press (q):
+
 2
 
 Welcome to the CIDR to Subnet Mask Converter!
 
 Enter the CIDR to convert it into a subnet mask (24 for /24) :
+
 24
+
 Your CIDR is /24
+
 Your Subnet Mask is: 255.255.255.0
+
 Do you wish to quit out of the program?
+
 Press (q) to quit.
 
 q
+
 For VLSM Press (1):
 For CIDR to Subnet Mask Press (2):
 To Quit Press (q):
 q
+
 ---
 
 ## 👤 Author
