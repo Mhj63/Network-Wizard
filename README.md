@@ -36,7 +36,7 @@ The program helps users:
 
 ## 🚀 How to Run
 
-1. Create a new folder Called "Network-Wizard".
+1. Create a new folder Called `Network-Wizard`.
 2.  Download the `.exe` file and the zip folder.
 3.  extract the zip folder.
 4. Simply double-click to launch — no setup or installation required.
