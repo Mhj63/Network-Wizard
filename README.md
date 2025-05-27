@@ -42,6 +42,7 @@ The program helps users:
 4. Simply double-click to launch — no setup or installation required.
 5. Follow the prompts in the console window.
    - To quit, press `q` at any time.
+  
 OR 
 Download the installer (For an easier approach)
 
